@@ -2,7 +2,7 @@
 
 Simple birthday reminder app created using React useState.
 
-![Practice](https://img.shields.io/badge/Practice-ReactJ-blue.svg)
+![Practice](https://img.shields.io/badge/Practice-ReactJs-blue.svg)
 
 ### Learning Points
 
@@ -10,9 +10,9 @@ Simple birthday reminder app created using React useState.
 - useState
 - [Awesomeness](https://www.wikihow.com/Love-Programming) - Strictly for the love of coding :-)
 
-### Idea
+### Screenshot
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+![Screenshot (320)](https://user-images.githubusercontent.com/93200960/216834430-36b5641a-2a60-4c95-8a22-e998f4fcb21c.png)
 
 ### Acknowledgments
 
